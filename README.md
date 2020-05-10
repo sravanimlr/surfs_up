@@ -6,16 +6,16 @@ Working with SQLAlchemy to analyze weather data to predict the success of a busi
 ## June Temperatures
  The June temperature data was gathered for years 2010-2017. There were 1700 data points analyzed for percentiles based on standard deviation along with max, min, mean etc. June temperatures followed a trend of mid 70s and a max of 85. The histogram shows a distribution of temperatures more concentrated in the 75 and 80 range. In the 7-year period, the temperatures did not vary much and followed a pattern. June is an ideal time to spend time outside, thus the business might notice an increase during June and summer months specifically. 
  ## June Statistics 
-![JuneStats](June Stats.png)
+![June Stats](June Stats.png)
 ## June 2010-2017 Temperatures Histogram 
-![JuneTempsHistogram](June Temps Histogram.png)
+![June Temps Histogram](June Temps Histogram.png)
 
 ## December Temperatures 
  Similarly, 2017-2017 years were analyzed for December temperatures. 1,517 data points were analyzed for mean, mean, min, and percentiles based on standard deviation. The mean temperature for December was 71, with a min of 55 and max of 80. The distribution of temperatures was between 65-75 based on the histogram. December is winter season and may cause a shortage of visitors to the business location. 
  ## December Statistics 
-![DecStats](Dec Stats.png)
+![Dec Stats](Dec Stats.png)
 ## December 2010-2017 Temperatures Histogram 
-![DecTempsHistogram](Dec Temps Histogram.png)
+![December Temps Histogram](December Temps Histogram.png)
 
 Both June and December months followed their seasonal patterns for temperatures, thus it can be seen that June months favor higher temperatures as opposed to that of December. 
 
